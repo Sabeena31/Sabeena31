@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,100:6c5ce7&height=200&section=header&text=Sabeena%20Kachary&fontSize=30&fontColor=fff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=UI/UX+Designer;Frontend+Developer;Exploring Cybersecurity;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=UI/UX+Designer;Frontend+Developer;Exploring+Cybersecurity&center=true&width=500&height=50">
 </p>
 
 # Hi 👋, I'm Sabeena
